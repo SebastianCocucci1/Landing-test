@@ -39,3 +39,16 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# claude
+CLAUDE.md
+AGENTS.md
+.claude/
+
+# images (subir manualmente las que necesites)
+public/*.jpg
+public/*.jpeg
+public/*.png
+public/*.gif
+public/*.webp
+public/*.svg
